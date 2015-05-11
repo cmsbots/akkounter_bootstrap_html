@@ -1,0 +1,9 @@
+This file list images and its sources used in this template
+
+
+Image Website Link:
+http://picjumbo.com
+
+css-header-header-fresh-way-main-background.jpg
+Image-link: http://picjumbo.com/wp-content/uploads/IMG_6648-1300x866.jpg
+
