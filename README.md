@@ -1,7 +1,7 @@
 Intro :
 Akkounter is HTML5 / CSS3 Flat and elegant website template available for free. With multiple inner page options. Release under Creative commons zero. Most of the images are taken from picjumbo.com . You can fork / rise issues about this template in GitHub here
 
-This HTML template is generated using CMSBots.com An Online template generator for developers. It helps you to finishing the layout into code in just few minutes. It take care everything from IE fixes to responsive. Optimally you can export as Drupal, Wordpress or HTML. You can spend your time with more important tasks.
+This HTML template is generated using http://CMSBots.com An Online template generator for developers. It helps you to finishing the layout into code in just few minutes. It take care everything from IE fixes to responsive. Optimally you can export as Drupal, Wordpress or HTML. You can spend your time with more important tasks.
 
 Features :
 HTML5 and CSS3
